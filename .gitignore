@@ -1,0 +1,7 @@
+*.swp
+*.bak
+*.pyc
+output*
+.*
+!.gitignore
+fabfile.py

@@ -1,4 +1,4 @@
-wiki
+Ljhero's wiki
 ====
 
-Personal wiki: http://wiki.ljhero.info
+This is a personal wiki powered by [simiki](http://simiki.org/).
